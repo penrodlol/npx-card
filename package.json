@@ -1,5 +1,5 @@
 {
-  "name": "npx-card",
+  "name": "@penrodlol/npx-card",
   "version": "1.0.0",
   "description": "A personal business card via npx",
   "main": "index.js",
